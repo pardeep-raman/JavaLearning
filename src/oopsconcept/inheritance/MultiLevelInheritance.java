@@ -1,4 +1,4 @@
-package oopsConcepts.inheritance;
+package oopsconcept.inheritance;
 
 class GrandFather {
     void gfName() {
