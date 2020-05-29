@@ -1,4 +1,4 @@
-package oopsConcepts.inheritance;
+package oopsconcept.inheritance;
 
 class Sum {
     int sum(int[] args) {

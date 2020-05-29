@@ -1,4 +1,4 @@
-package oopsConcepts.polymorphism;
+package oopsconcept.polymorphism;
 
 class Vehicle {
     void run() {

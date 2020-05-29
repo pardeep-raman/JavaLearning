@@ -1,4 +1,4 @@
-package oopsConcepts.encapsulation;
+package oopsconcept.encapsulation;
 
 class Bird {
     private String birdName;

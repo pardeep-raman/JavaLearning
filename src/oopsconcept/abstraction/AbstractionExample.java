@@ -1,4 +1,4 @@
-package oopsConcepts.abstraction;
+package oopsconcept.abstraction;
 
 interface Utensils{
     void useBowl();
